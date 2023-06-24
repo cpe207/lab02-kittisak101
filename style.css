@@ -1,0 +1,20 @@
+h3 {
+  text-align: center;
+  color: rgb(1, 58, 192);
+  font-style: italic;
+  font-size: 50px;
+}
+
+.skill-header {
+  text-align: left;
+  font-size: 25px;
+}
+
+.skill-container {
+  border: solid rgb(1, 58, 192);
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 10px;
+}
